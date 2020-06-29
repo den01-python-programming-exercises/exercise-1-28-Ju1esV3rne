@@ -1,5 +1,5 @@
 def main():
-    paz = input('Password?: \n')
+    paz = input('Password?:')
     if paz == "Caput Draconis":
         print("Welcome!")
     else:
